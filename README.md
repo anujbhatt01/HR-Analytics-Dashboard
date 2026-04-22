@@ -1,13 +1,5 @@
 # 📊 HR Analytics Dashboard: Employee Attrition Analysis
 
----
-
-## 🖼️ Dashboard Preview
-
-![Dashboard Preview](images/dashboard_preview.png)
-
---
-
 ## 🔍 Project Overview
 
 This project focuses on analyzing employee data to understand **attrition patterns and workforce trends** using **Python (EDA)** and **Power BI Dashboard**.
