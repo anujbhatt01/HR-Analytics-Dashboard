@@ -4,7 +4,7 @@
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](images/dark-gradient.jpg)
+![Dashboard Preview](images/dashboard_preview.png)
 
 ---
 
