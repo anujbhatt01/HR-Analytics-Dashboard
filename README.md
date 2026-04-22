@@ -6,7 +6,7 @@
 
 ![Dashboard Preview](images/dashboard_preview.png)
 
----
+--
 
 ## 🔍 Project Overview
 
